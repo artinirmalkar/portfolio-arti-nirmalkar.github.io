@@ -1,0 +1,237 @@
+.buttons button {
+  background-color: #004987;
+  border: none;
+  border-radius: 25px;
+  margin-top: 50px;
+  padding: 7px;
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.buttons button:hover {
+  background-color: #e4eaf0;
+  color: #004987;
+  font-weight: bold;
+  border: 2px solid #004987;
+
+}
+
+/* Skills */
+.first {
+  display: flex;
+  padding: 10px;
+}
+
+.container {
+  padding: 10px;
+  display: flex;
+ 
+}
+
+
+.skill {
+  background-color: whitesmoke;
+  height: 37px;
+  width: 90%;
+  
+}
+
+.htmlname {
+  background-color: rgb(241, 193, 103);
+  width: 100px;
+  padding: 5px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.htmlbar {
+  background-color: orange;
+  width: 90%;
+  height: 37px;
+}
+
+.cssname {
+  background-color: blue;
+  width: 100px;
+  padding: 5px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.cssbar {
+  background-color: lightblue;
+  width: 70%;
+  height: 37px;
+}
+
+.jsname {
+  background-color: tomato;
+  width: 110px;
+  padding: 5px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.jsbar {
+  background-color: rgb(255, 128, 106);
+  width: 50%;
+  height: 37px;
+}
+
+.reactname {
+  background-color: rgb(5, 5, 197);
+  width: 100px;
+  padding: 5px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.rjsbar {
+  background-color: rgb(92, 92, 253);
+  width: 30%;
+  height: 37px;
+}
+
+.bsname {
+  background-color: magenta;
+  width: 100px;
+  padding: 5px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.bsbar {
+  background-color: rgb(224, 131, 224);
+  width: 60%;
+  height: 37px;
+}
+
+.cname {
+  background-color: green;
+  width: 100px;
+  padding: 5px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.cbar {
+  background-color: rgb(30, 172, 30);
+  width: 75%;
+  height: 37px;
+}
+
+.cppname {
+  background-color: rgb(36, 138, 202);
+  width: 100px;
+  padding: 5px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.cppbar {
+  background-color: lightseagreen;
+  width: 80%;
+  height: 37px;
+}
+
+.javaname {
+  background-color: yellow;
+  width: 115px;
+  padding: 5px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.javabar {
+  background-color: rgb(231, 231, 138);
+  width: 70%;
+  height: 37px;
+}
+
+.wordname {
+  background-color: rgb(253, 116, 139);
+  width: 100px;
+  padding: 5px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.wordbar {
+  background-color: pink;
+  width: 95%;
+  height: 37px;
+}
+
+.ppname {
+  background-color: blueviolet;
+  width: 115px;
+  padding: 5px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.ppbar {
+  background-color: rgb(175, 131, 216);
+  width: 95%;
+  height: 37px;
+}
+
+.excelname {
+  background-color: rgb(159, 250, 21);
+  width: 100px;
+  padding: 5px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.excelbar {
+  background-color: rgb(191, 245, 111);
+  width: 75%;
+  height: 37px;
+}
+
+.gitname {
+  background-color: red;
+  width: 100px;
+  padding: 5px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.gitbar {
+  background-color: rgb(247, 84, 84);
+  width: 65%;
+  height: 37px;
+}
+
+#skill div{
+  border: 2px solid black;
+  border-radius: 25px;
+  padding: 5px;
+  margin: 3px;
+  font-size: small;
+  width: fit-content;
+  display: inline-flex;
+  background-color: rgb(223, 161, 161);
+}
+/* Read More */
+#more {
+  display: none;
+}
+
+#myBtn {
+  background-color: #004987;
+  border: none;
+  border-radius: 25px;
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+#myBtn:hover {
+  background-color: #e4eaf0;
+  color: #004987;
+  font-weight: bold;
+  border: 2px solid #004987;
+}
